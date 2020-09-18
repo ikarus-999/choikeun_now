@@ -1,4 +1,4 @@
 # choikeun_now
-최근개발내용정리
+논문 리뷰 정리 리스트
 
-- keras 내부 변수 : 64비트인데 32비트로 구동되는 버그인지 오류인지는 모르겠지만 빨리 수정해야 할듯
+- https://github.com/Lihit/Sound-of-Pixels
